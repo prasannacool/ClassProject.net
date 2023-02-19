@@ -1,0 +1,1 @@
+INSERT INTO schoolstudent Values(6,'Nuwani Herath','Rathnapura');

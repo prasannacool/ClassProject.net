@@ -1,0 +1,1 @@
+SELECT StudentId,Name,City FROM schoolstudent;
